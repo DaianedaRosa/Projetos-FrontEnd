@@ -1,8 +1,8 @@
 /*------------ Global ------------*/
 :root {
-  --white: #fafafa;
-  --blue: #00348a;
-  --blue-light: #0bbbd6;
+  --white: rgb(241, 241, 241);
+  --orange: #da491c;
+  --orange-light: #fa7d29;
 }
 
 * {
@@ -17,39 +17,40 @@
 header {
   width: 100%;
   text-align: center;
-  padding: 2rem;
+  padding: 1rem;
   box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.5);
-  background-color: var(--white);
+  background-color: #BF360C;
 }
 
 header h1 {
-  color:  var(--blue);
+  color: rgb(241, 241, 241);
   font-size: 2.8rem;
   font-weight: 300;
+  font-family: 'New Tegomin', serif;
 }
 
 /*------------ Container ------------*/
 .container {
   width: 100%;
-  height: 95vh;
+  height: 100vh;
 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
 
-  background: linear-gradient(to right, #ddd, #eee, #ddd);
+  background: linear-gradient( #FF7043, #741d03);
 }
 
 /*------------ Form ------------*/
 form {
-  background: var(--blue-light);
+  background: var(--orange-light);
 
   display: flex;
   flex-direction: column;
   width: 40%;
   padding: 2rem;
-  margin-top: 5%;
+  margin-top: 2%;
   border-radius: 0.5rem;
 }
 
@@ -83,13 +84,13 @@ button {
   border-radius: 0.2rem;
   font-size: 1.5rem;
   font-weight: 400;
-  background: var(--blue);
+  background: var(--orange);
   color: var(--white);
   transition: 0.3s ease-in-out;
 }
 
 button:hover {
-  color: var(--blue);
+  color: var(--orange);
   background: var(--white)
 }
 
@@ -101,7 +102,7 @@ button:hover {
   padding: 2rem;
   border-radius: 0.5rem;
   box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.2);
-  color: var(--blue)
+  color: var(--orange)
 }
 
 .result-box h2 {
@@ -121,7 +122,7 @@ button:hover {
   border: 0;
   outline: 0;
   background: var(--white);
-  color: var(--blue);
+  color: var(--orange);
   padding: 1rem;
   margin-top: 3%;
   font-size: 1.3rem;
@@ -133,21 +134,80 @@ button:hover {
 }
 
 #btn-Restart:hover {
-  background: var(--blue);
+  background: var(--orange);
   color: var(--white)
-
 }
 
 /*------------ Footer ------------*/
 footer {
   padding: 1.5rem;
   text-align: center;
-  box-shadow: inset 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
-  color: var(--blue);
+  
+  color: var(--orange);
 }
 
 footer p {
-  color: var(--blue);
+  color: var(--orange);
   font-size: 1rem;
   font-weight: 300;
+}
+
+/*------------ Squares ------------ */
+body {
+  overflow: hidden;
+}
+
+.squares li {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(255,255,255,0.15);
+  display: block;
+  position: absolute;
+  bottom: -40px;
+  animation: up 2s infinite alternate;  
+}
+
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translateY(0);
+  }50% {
+    opacity: 1;
+  }to {
+    opacity: 0;
+    transform: translateY(-800px) rotate(960deg);
+  }
+}
+
+footer p {
+  color: var(--white);
+  margin-top: 2%;
+  display: flex;
+  flex-direction: column;
+}
+
+footer .links {
+  margin-top: 13px;
+  display: flex;
+  justify-content: space-around;
+}
+
+footer .links .github{
+  color: #fff;
+  font-size: 25px;
+}
+
+footer .links .github:hover{
+  color: rgb(71, 0, 104);
+  transition: 0.3s
+}
+
+footer .links .linkedin-end{
+  color: #fff;
+  font-size: 25px;
+}
+
+footer .links .linkedin-end:hover{
+  color: rgb(16, 2, 94);
+  transition: 0.3s
 }
