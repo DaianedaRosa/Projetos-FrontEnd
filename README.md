@@ -1,2 +1,2 @@
 # Projetos-FrontEnd
- Repositório para estudos treinamentose aprendizagem da área Front End.
+ Repositório para estudos, treinamentos e aprendizagem da área Front End.
