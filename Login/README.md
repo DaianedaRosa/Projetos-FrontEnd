@@ -4,7 +4,7 @@
 
 ### 🎯 Breve Resumo
 
-Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva de uma olhada aqui: [Pojeto](https://maratona-discover-seven.vercel.app/)<a id="Projeto"></a>
+Projeto desenvolvido para simular uma tela de login para estudos e treinamentos, da uma olhadinha aqui: [Pojeto](https://projetos-frontend-telalogin.vercel.app/)
 
 #### Funcionalidades
 
@@ -16,8 +16,8 @@ Projeto desenvolvido para controle pessoal de gastos, com interface intuitiva de
 
 ## Layout 🚧
 
-#### Desktop Aplication
+#### Desktop Application:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Login](https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/Login/img/Tela%20de%20Login%20-%20gif.gif)
 
 
