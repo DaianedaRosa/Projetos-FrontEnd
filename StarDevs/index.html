@@ -4,27 +4,26 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-
+  <title>Star Devs</title>
+  <link rel="shortcut icon" href="./img/vader+darth.png">
   <link rel="stylesheet" href="./css/styles.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
   <header>
-    <h1>Star-Devs</h1>
+    <h1>Star Devs</h1>
   </header>
 
   <main>
-    
     <section class="cards-main">
       <div class="card-container">
         <div class="card-main">
           <span>Personagens</span>
           <h2 id="persons">Carregando...</h2>
         </div>
-        <img src="./img/darth.svg" alt="Imagem Personagens">
+        <img src="./img/darth.svg" alt="Imagem Personagens" class="figures">
       </div>
 
       <div class="card-container">
@@ -32,25 +31,31 @@
           <span>Naves </span>
           <h2 id="starships">Carregando...</h2>
         </div>
-        <img src="./img/starship.svg" alt="Imagem Naves Estelares">
+        <img src="./img/starship.svg" alt="Imagem Naves Estelares" class="figures">
       </div>
-
       <div class="card-container">
         <div class="card-main">
           <span>Planetas</span>
           <h2 id="planets">Carregando...</h2>
         </div>
-        <img src="./img/planet.svg" alt="Imagem Planetas">
+        <img src="./img/planet.svg" alt="Imagem Planetas" class="figures">
       </div>
     </section>
-
     <section class="phrases-container">
-      <button id="btn-phrases">Ler uma frase</button>
+      <button id="btn-phrases" onclick="loadPhrase()">Ler uma frase</button>
       <p id="phrase"></p>
     </section>
-
-
   </main>
 
+  <footer>
+    <p>Star Devs - 2021 </p>
+    <div class="links">
+      <a href="https://github.com/savionascimentodev" target="_blank"><i class="fab fa-github-square github"></i></a>
+      <a href="https://www.linkedin.com/in/savio-nascimento/" target="_blank"><i class="fab fa-linkedin-in linkedin-end"></i></a>
+    </div>
+  </footer>
+
+  <script src="./js/scripts.js"></script>
+  <script src="https://kit.fontawesome.com/ce50b4cae1.js" crossorigin="anonymous" defer></script>
 </body>
 </html>
