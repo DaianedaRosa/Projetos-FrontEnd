@@ -66,6 +66,14 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End
 
 ---
 
+<div align="center">
+  
+### 🚧Projetos em fase de Construção...⏳
+##### Mais projetos em breve
+
+</div>
+
+---
 
 ### Tecnologias 🚀 <a id="tecnologias"></a>
 
@@ -73,7 +81,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)
 
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 ![CSS3](https://img.shields.io/badge/-CSS3-5DAFEF?style=flat-square&logoColor=fff&logo=CSS3)
 
