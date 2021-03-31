@@ -30,6 +30,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 * Landing pages, formularios, menus, 
 * Vários cursos e projetos próprios,
 * Todos muito bem documentados.
+* Apis.
 
 ---
 
@@ -37,7 +38,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 
 ### Tela de Login
 
-* [Tela de Login](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/Login)
+* Projeto desenvolvido para simular uma tela de login para estudos e treinamentos [Tela de Login](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/Login)
 
 #### Desktop Screenshot:
 
@@ -47,7 +48,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 
 ### Adivinhe o Número
 
-* [Adivinhe o numero](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/AdivinheNumero)
+* Projeto desenvolvido como um mini-game básico onde você deve adivinhar o número que a máquina escolheu e mostra em quantas tentativas você precisou [Adivinhe o numero](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/AdivinheNumero)
 
 #### Desktop Screenshot:
 
@@ -57,7 +58,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 
 ### Star Devs
 
-* [Star Devs](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/StarDevs)
+* Projeto desenvolvido para retornar os dados da Api Swapi de StarWars e a Api Swquote de frases de StarWars [Star Devs](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/StarDevs)
 
 #### Desktop Screenshot:
 
