@@ -23,14 +23,13 @@
 
 ### 🎯 Breve Resumo
 
-Repositório para estudos, treinamentos e aprendizagem da área Front End
+Repositório para estudos, treinamentos e aprendizagem da área Front End, com diversos projetinhos. 
 
-#### Funcionalidades
+#### Descrições
 
-* Site para administrar ganhos e gastos (controle financeiro)
-* Cadastro e exclusão de transações
-* Visualização do saldo de entrada e saída.
-* Remover Transações
+* Landing pages, formularios, menus, 
+* Vários cursos e projetos próprios,
+* Todos muito bem documentados.
 
 ---
 
@@ -40,7 +39,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End
 
 * [Tela de Login](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/Login)
 
-#### Desktop Screenshot
+#### Desktop Screenshot:
 
 <img src="https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/Login/img/Print-TeladeLogin.png" width="550">
 
@@ -50,7 +49,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End
 
 * [Adivinhe o numero](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/AdivinheNumero)
 
-#### Desktop Screenshot
+#### Desktop Screenshot:
 
 <img src="https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/AdivinheNumero/img/Print-AdivinheNumero.png" width="550">
 
@@ -60,7 +59,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End
 
 * [Star Devs](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/StarDevs)
 
-#### Desktop Screenshot
+#### Desktop Screenshot:
 
 <img src="https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/StarDevs/img/Print-StarDevs.png" width="550">
 
@@ -69,7 +68,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End
 <div align="center">
   
 ### 🚧Projetos em fase de Construção...⏳
-##### Mais projetos em breve
+##### Mais projetos em breve...
 
 </div>
 
