@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-    <a href="#Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#info">Informações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +19,7 @@
 
 ----
 
-[🏠 Home](https://github.com/savionascimentodev/MaratonaDiscover)
+[🏠 Home](https://github.com/savionascimentodev/Projetos-FrontEnd)
 
 ### 🎯 Breve Resumo
 
@@ -38,17 +38,15 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End
 
 #### Desktop Screenshot
 
-<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceFull.png" width="550">
+<img src="https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/Login/img/Print-TeladeLogin.png" width="550">
 
 <br>
 
-<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceFull2.png" width="550">
+<img src="https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/AdivinheNumero/img/Print-AdivinheNumero.png" width="550">
 
-#### Mobile Screenshot
+<br>
 
-<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceMobile.png" width="180">
-
-<img src="https://github.com/savionascimentodev/MaratonaDiscover/blob/main/assets/DevFinanceMobile2.png" width="180" align="center">
+<img src="https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/StarDevs/img/Print-StarDevs.png" width="550">
 
 ### Tecnologias 🚀 <a id="tecnologias"></a>
 
