@@ -15,6 +15,7 @@
 body {
   background: url('../img/bg-origin.jpg') ;
   background-repeat: no-repeat fixed;
+  background-position: fixed;
   background-size: cover;
   padding: 2%;
 }
