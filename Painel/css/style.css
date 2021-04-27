@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.5em 0;
+}
+
+header .title-box .title {
+  color: var(--LimeGreen);
+}
+
+header .title-box .title span {
+  color: var(--BgLightTop);
+  font-weight: 700;
+}

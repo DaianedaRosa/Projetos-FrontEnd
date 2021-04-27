@@ -1,0 +1,42 @@
+:root {
+  /* Colors Primary */
+  --LimeGreen: hsl(163, 72%, 41%);
+  --BrightRed: hsl(356, 69%, 56%);
+  --Facebook: hsl(208, 92%, 53%);
+  --Twitter: hsl(203, 89%, 53%);
+  --Instagram: linear gradient (to right,hsl(37, 97%, 70%),hsl(329, 70%, 58%));
+  --YouTube: hsl(348, 97%, 39%);
+
+  /* Dark Theme */
+  --ToggleBtnDark: hsl(230, 22%, 74%);
+
+  /* Ligth Theme */
+  --BgLigth: hsl(0,0%, 100%);
+  --BgLigthTop: hsl(225,100%, 98%);
+  --BgLigthCard: hsl(227,47%,96%);
+  --BgLigthTopHover: hsl(227,32%,86%);
+  --ColorDark: hsl(230,17%,14%);
+  --BgLigthTopHover: hsl(220,12%,44%);
+}
+
+body .dark {
+  --ToggleBtnDark: linear gradient (to right, hsl(210, 78%, 56%), hsl(146, 68%, 55%));
+  --ColorDark: hsl(0,0%,100%);
+  --ColorDarkLight: hsl(228,34%,66%);
+  --BgLightCard: hsl(228,28%,20%);
+  --BgLightCardHover: hsl(228,26%,26%);
+  --BgLight: hsl(230,17%,14%);
+  --BgLightTop: hsl(232,19%,15%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  background: var(--BgLigthTop);
+}
