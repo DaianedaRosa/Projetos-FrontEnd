@@ -1,11 +1,11 @@
-<h1 align="center"> 👨🏽‍💻 Projetos-FrontEnd <a id="top"></a> </h1> 
+<h1 align="center"> 👨🏽‍💻 Projetos-FrontEnd <a id="top"></a> </h1>
 
 <div align="center">
 
 ![](https://img.shields.io/badge/license-MIT-lightseagreen)
 ![Html-5.0](https://img.shields.io/badge/Html-5.0-F16529?logo=html5&style=flat)
 ![CSS-3.0](https://img.shields.io/badge/Css-3.0-2965f1?logo=CSS3&style=flat)
-![JavaScript](https://img.shields.io/badge/Java-Script-yellow?logo=javascript&style=flat) 
+![JavaScript](https://img.shields.io/badge/Java-Script-yellow?logo=javascript&style=flat)
 
 </div>
 
@@ -17,20 +17,20 @@
     <a href="#license">Licença</a>
 </p>
 
-----
+---
 
 [🏠 Home](https://github.com/savionascimentodev/Projetos-FrontEnd)
 
 ### 🎯 Breve Resumo
 
-Repositório para estudos, treinamentos e aprendizagem da área Front End, com diversos projetinhos. 
+Repositório para estudos, treinamentos e aprendizagem da área Front End, com diversos projetinhos.
 
 #### Descrições
 
-* Landing pages, formularios, menus, 
-* Vários cursos e projetos próprios,
-* Todos muito bem documentados.
-* Apis.
+- Landing pages, formularios, menus,
+- Vários cursos e projetos próprios,
+- Todos muito bem documentados.
+- Apis.
 
 ---
 
@@ -38,7 +38,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 
 ### Tela de Login
 
-* Projeto desenvolvido para simular uma tela de login para estudos e treinamentos [Tela de Login](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/Login)
+- Projeto desenvolvido para simular uma tela de login para estudos e treinamentos [Tela de Login](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/Login)
 
 #### Desktop Screenshot:
 
@@ -48,7 +48,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 
 ### Adivinhe o Número
 
-* Projeto desenvolvido como um mini-game básico onde você deve adivinhar o número que a máquina escolheu e mostra em quantas tentativas você precisou [Adivinhe o numero](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/AdivinheNumero)
+- Projeto desenvolvido como um mini-game básico onde você deve adivinhar o número que a máquina escolheu e mostra em quantas tentativas você precisou [Adivinhe o numero](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/AdivinheNumero)
 
 #### Desktop Screenshot:
 
@@ -58,7 +58,7 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 
 ### Star Devs
 
-* Projeto desenvolvido para retornar os dados da Api Swapi de StarWars e a Api Swquote de frases de StarWars [Star Devs](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/StarDevs)
+- Projeto desenvolvido para retornar os dados da Api Swapi de StarWars e a Api Swquote de frases de StarWars [Star Devs](https://github.com/savionascimentodev/Projetos-FrontEnd/tree/main/StarDevs)
 
 #### Desktop Screenshot:
 
@@ -109,19 +109,47 @@ Copyright © 2021.<br/>
 
 **Savio Nascimento**
 
-* [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) 
-* [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
+- [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/)
+- [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
 
 ---
 
 ### ℹ️ Informações do projeto <a id="info"></a>
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.Projetos-FrontEnd)
-![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/Projetos-FrontEnd?&color=lightseagreen) 
-![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/Projetos-FrontEnd?&color=lightseagreen) 
+![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/Projetos-FrontEnd?&color=lightseagreen)
+![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/Projetos-FrontEnd?&color=lightseagreen)
 <img src="https://img.shields.io/github/languages/count/savionascimentodev/Projetos-FrontEnd?color=lightseagreen&style=flat" alt="Linguagens">
-[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Projetos-FrontEnd?style=social)](https://github.com/savionascimentodev/MaratonaDiscover/stargazers) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Projetos-FrontEnd?style=social)](https://github.com/savionascimentodev/MaratonaDiscover/stargazers)
 
 ---
+
+<!-- Readme Projetos -->
+
+<!-- # Tela de Login
+
+[🏠 Home](https://github.com/savionascimentodev/Projetos-FrontEnd)
+
+### 🎯 Breve Resumo
+
+Projeto desenvolvido como um mini-game básico onde você deve adivinhar o número que a máquina escolheu e mostra em quantas tentativas você precisou, da uma olhadinha aqui: [Pojeto](https://vercel.com/savionascimentodev/projetos-frontend-adivinhenumero)
+
+#### Funcionalidades
+
+* Tela simples.
+* Inputs para digitar o número.
+* Número aleatório escolhido pela máquina.
+* Lógica para dizer se o número é maior ou menor que o escolhido.
+* Lógica para dizer se o usúario acertou.
+* Button para reiniciar (jogar de novo).
+* Background squares.
+
+---
+
+## Layout 🚧
+
+#### Desktop Application:
+
+![AdivinheNumero](https://github.com/savionascimentodev/Projetos-FrontEnd/blob/main/AdivinheNumero/img/Adivinhe%20o%20N%C3%BAmero%20-%20gif.gif) -->
 
 [⬆️ Topo](#top) <br>
