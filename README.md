@@ -6,6 +6,7 @@
 ![Html-5.0](https://img.shields.io/badge/Html-5.0-F16529?logo=html5&style=flat)
 ![CSS-3.0](https://img.shields.io/badge/Css-3.0-2965f1?logo=CSS3&style=flat)
 ![JavaScript](https://img.shields.io/badge/Java-Script-yellow?logo=javascript&style=flat)
+[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Projetos-FrontEnd?style=social)](https://github.com/savionascimentodev/MaratonaDiscover/stargazers)
 
 </div>
 
@@ -13,8 +14,7 @@
     <a href="#projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#info">Informações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#license">Licença</a>
+    <a href="#license">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -77,19 +77,14 @@ Repositório para estudos, treinamentos e aprendizagem da área Front End, com d
 
 ### Tecnologias 🚀 <a id="tecnologias"></a>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Estes projetos foram desenvolvidos com as seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-
 ![CSS3](https://img.shields.io/badge/-CSS3-5DAFEF?style=flat-square&logoColor=fff&logo=CSS3)
-
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
@@ -111,16 +106,6 @@ Copyright © 2021.<br/>
 
 - [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/)
 - [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
-
----
-
-### ℹ️ Informações do projeto <a id="info"></a>
-
-![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.Projetos-FrontEnd)
-![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/Projetos-FrontEnd?&color=lightseagreen)
-![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/Projetos-FrontEnd?&color=lightseagreen)
-<img src="https://img.shields.io/github/languages/count/savionascimentodev/Projetos-FrontEnd?color=lightseagreen&style=flat" alt="Linguagens">
-[![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Projetos-FrontEnd?style=social)](https://github.com/savionascimentodev/MaratonaDiscover/stargazers)
 
 ---
 
